@@ -1,0 +1,10 @@
+#navbar{
+    background-color: rgb(0,132,137);
+    width: 100%;
+}
+#account-user{
+    display: flex;
+    align-items: center;
+    color:aliceblue;
+    margin-right: 1em;
+}
